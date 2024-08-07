@@ -1,5 +1,6 @@
-## Welcome to Carson Christensen's Github Profile
+## Hi there👋
 
+My name is Carson Christensen
 I am a Chinese/Caucasian aspiring Software Developer from California. Through my college career I have fallen in love with the culture of coding and technology, making me more than excited to enter the job market and begin my professional career. I really enjoy learning new languages and facing challenging problems that push me to improve my ablities as a developer. I work well in C++ and Python, along with frameworks like React and React Native. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carsonjc04)](https://github.com/anuraghazra/github-readme-stats)
