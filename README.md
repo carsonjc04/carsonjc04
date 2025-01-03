@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Carson Christensen and I'm an aspiring Software Engineer, from Elk Grove, California</h2>
+<h2 align="left">Hi 👋! My name is Carson Christensen and I'm an aspiring Software Engineer, from Elk Grove, California. I am a Junior of Computer Science at California State University, Fullerton, with a strong foundation in software development, web development, and machine learning. Over the past 3 months I have been working as a Programming Instructor for Whizara where I have gained valuable experience in my ability to teach complex programming concepts to students of all ages. I hope to utilise my skills in a professional environment over the summer as an intern! Outside of programming and technology, I love soccer, gaming, and camping! I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at carsonjc04@gmail.com. I look forward to exploring opportunities in software development and IT.</h2>
 
 ###
 
