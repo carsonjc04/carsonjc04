@@ -1,43 +1,41 @@
-<h1 align="center">👋 Hey, I'm Carson Christensen</h1>
-<h3 align="center">Aspiring Software Engineer | Cloud & AI Enthusiast | Lifelong Learner</h3>
+# Hi, I’m Carson Christensen  
+
+Senior Computer Science Student @ Cal State Fullerton  
+Aspiring Software Engineer | Cloud & AI Enthusiast  
+Based in California | Open to Remote/Hybrid Opportunities  
 
 ---
 
-### 🚀 About Me
-- 🎓 **Computer Science** student at *California State University, Fullerton* (Graduating May 2026)
-- 💼 **Software Engineer Intern** at Pacific Life — building AI-powered tools with AWS & OpenAI
-- ☁️ Passionate about **Cloud Engineering**, **AI/ML**, and **Robotics**
-- 🛠 Always experimenting with new tech & open-source projects
-- 🌎 Based in **Elk Grove, California**
+## About Me
+- Currently a Software Engineering Intern at Pacific Life (May 2025 - January 2026)  
+- Focused on Cloud Engineering, AI/ML, and Full-Stack Development  
+- Experienced with AWS (Certified SAA-C03 & CLF-C02), Python, JavaScript, React, FastAPI, and Docker  
+- Passionate about Robotics & AI integration (long-term goal: BCI applications & robotics systems)  
 
 ---
 
-### 🧰 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-</div>
+## Tech Stack
+**Languages**: Python, JavaScript (ES6+), TypeScript, C++, SQL, HTML/CSS  
+**Frameworks**: React, FastAPI, Node.js, Express, Flask  
+**Cloud & DevOps**: AWS (Lambda, API Gateway, DynamoDB, S3, CloudFront, Cognito), Docker, GitHub Actions  
+**Databases**: PostgreSQL, Supabase, SQLite, DynamoDB, RDS  
+**Other Tools**: ROS, OpenCV, Terraform, Git, Linux  
 
 ---
 
-### 📌 Featured Projects
-- 🔐 **[CloudLock Password Manager](https://github.com/your-repo)** – AWS-powered, secure password manager  
-- 🤖 **RAG AI Chatbot** – Integrated with Azure DevOps Wiki for knowledge retrieval  
-- 🎮 **Mini Games** – Fun experiments with Python & JavaScript
+## Certifications
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Cloud Practitioner  
+- (Working toward Terraform & Kubernetes certifications)  
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/carsonchristensen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:carsonchristensen04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/carsonjc04"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## Connect
+- LinkedIn: [linkedin.com/in/carsonchristensen](https://www.linkedin.com/in/carsonchristensen/)  
+- GitHub: [github.com/carsonjc04](https://github.com/carsonjc04)  
+- Email: carsonjc04@gmail.com  
 
 ---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss software engineering, cloud, or AI.  
+
