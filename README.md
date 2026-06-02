@@ -1,13 +1,11 @@
 # Hi, I’m Carson Christensen  
 
-Senior Computer Science Student @ Cal State Fullerton  
-Aspiring Software Engineer | Cloud & AI Enthusiast  
 Based in California | Open to Remote/Hybrid Opportunities  
 
 ---
 
 ## About Me
-- Currently a Software Engineering Intern at Pacific Life (May 2025 - January 2026)  
+- Currently a Software Engineering at Pacific Life (May 2025 - January 2026)  
 - Focused on Cloud Engineering, AI/ML, and Full-Stack Development  
 - Experienced with AWS (Certified SAA-C03 & CLF-C02), Python, JavaScript, React, FastAPI, and Docker  
 - Passionate about Robotics & AI integration (long-term goal: BCI applications & robotics systems)  
